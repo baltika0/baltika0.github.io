@@ -26,6 +26,7 @@ body {
     font-size: 100px;
     font-weight: 700;
     width: 750px;
+    border:1px solid #2b2925 ;
     margin-bottom: 5px;
     letter-spacing: 0.04em;
     background: #2b2925;
