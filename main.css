@@ -25,7 +25,9 @@ body {
     color: #fa0;
     font-size: 100px;
     font-weight: 700;
-    width: 700px;
+    width: 750px;
+    margin-bottom: 5px;
+    border:1px solid red;
     letter-spacing: 0.04em;
     background: #2b2925;
     position: relative;
@@ -47,19 +49,19 @@ body {
 
     0%{
         color: rgba(227, 154, 7,0.1);
-        margin-bottom: -75px;
+        margin-bottom: -80px;
         text-shadow: 0px 0px 0px #fa0;
     }
     40%{
       color: rgba(245, 165, 5,0.4);
         letter-spacing: 0.3em;
-        margin-bottom: -75px;
+        margin-bottom: -80px;
         text-shadow: 0px 0px 2.5px #fa0;
     }
     90%{
       color: rgba(255, 170, 0,7);
         letter-spacing: 0.1em;
-        margin-bottom: -75px;
+        margin-bottom: -80px;
         text-shadow: 0px 0px 5px #fa0;
     }
 }
